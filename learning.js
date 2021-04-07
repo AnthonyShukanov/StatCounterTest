@@ -14,5 +14,8 @@ describe('angularjs homepage todo list', function() {
         const govnoVisibility = new Visibility();
         browser.sleep(5000);
         console.log('testin` git!!!!!!!!!');
+
+
+        console.log('Changed for Sasha');
     });
 });
