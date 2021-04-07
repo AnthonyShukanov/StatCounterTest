@@ -13,6 +13,6 @@ describe('angularjs homepage todo list', function() {
         const searchButtons = new SearchButtons();
         const govnoVisibility = new Visibility();
         browser.sleep(5000);
-        console.log('testin` git');
+        console.log('testin` git!!!!!!!!!');
     });
 });
